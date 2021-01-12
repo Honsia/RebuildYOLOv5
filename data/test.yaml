@@ -1,0 +1,10 @@
+train: F:/Data/code_test_data/train/  # 16551 images
+val: F:/Data/code_test_data/test/  # 4952 images
+
+# number of classes
+nc: 4
+
+# class names
+names: ['Mask_head', 'Clear_head', 'Unclear_head', 'Help']
+
+

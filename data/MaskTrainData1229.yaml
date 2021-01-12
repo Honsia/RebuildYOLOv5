@@ -1,0 +1,8 @@
+train: /dockerData/honsia/data/MaskTrainData0105/train/
+val: /dockerData/honsia/data/MaskTrainData0105/test/ 
+
+# number of classes
+nc: 4
+
+# class names
+names: ['Mask_head', 'Clear_head', 'Unclear_head', 'Help']
